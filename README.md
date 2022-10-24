@@ -2,18 +2,16 @@
 DEFNet: Dual-Branch Enhanced Feature Fusion Network for RGB-T Crowd Counting（[paper](https://ieeexplore.ieee.org/document/9889192)）
 
 
-![DEFNet](https://github.com/panyi95/DEFNet/tree/main/image/DEFNet.jpg)
-
-
-![IDEM](https://github.com/panyi95/DEFNet/tree/main/image/IDEM.jpg)
-
 # Requirements
 Python3.6, Pytorch 1.5.0+, Cuda 10.2, Opencv-python
 
 # Dataset
+
 RGB-T Crowd Counting Dataset can be found in:[百度网盘（PW:RGBT）](https://pan.baidu.com/s/1ui265kpRGIpTu9kLQrEYgA#list/path=%2F)
 
 # Results
+![result](https://github.com/panyi95/DEFNet/tree/main/image/results.jpg)
+
 Pretrained model download:[百度网盘（PW:zust）](https://pan.baidu.com/s/1RjOA05BFV7TOOIeo1_Aqow?pwd=zust)
 
 Test maps:[百度网盘（PW:zust）](https://pan.baidu.com/s/1qsR5CjgbqQKafTzu-b-I4A?pwd=zust)
