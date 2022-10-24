@@ -9,7 +9,7 @@ Python3.6, Pytorch 1.5.0+, Cuda 10.2, Opencv-python
 RGB-T Crowd Counting Dataset can be found in:[百度网盘（PW:RGBT）](https://pan.baidu.com/s/1ui265kpRGIpTu9kLQrEYgA#list/path=%2F)
 
 # Results
-Pretrained model download:[百度网盘（PW:zust）](https://pan.baidu.com/s/1aZfxl0boMXdqKqLEsgHDtQ?pwd=zust)
+Pretrained model download:[百度网盘（PW:zust）](https://pan.baidu.com/s/1RjOA05BFV7TOOIeo1_Aqow?pwd=zust)
 
 Test maps:[百度网盘（PW:zust）](https://pan.baidu.com/s/1qsR5CjgbqQKafTzu-b-I4A?pwd=zust)
 
