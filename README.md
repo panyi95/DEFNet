@@ -9,7 +9,6 @@ Python3.6, Pytorch 1.5.0+, Cuda 10.2, Opencv-python
 
 # Results
 ![result](./image/results.jpg)
-Pretrained model download:[百度网盘（PW:zust）](https://pan.baidu.com/s/1RjOA05BFV7TOOIeo1_Aqow?pwd=zust)
 
 Test maps:[百度网盘（PW:zust）](https://pan.baidu.com/s/1qsR5CjgbqQKafTzu-b-I4A?pwd=zust)
 
