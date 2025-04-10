@@ -26,4 +26,4 @@ The implement of this project is based on the code of ["Cross-Modal Collaborativ
  RGBT Benchmark for Crowd Counting"](https://ieeexplore.ieee.org/document/9578312) proposed Liu et al.
 
 # Contact
-Please drop me an email for further problems or discussion: wujiezhou@163.com or 281775411@qq.com
+Please drop me an email for further problems or discussion: 281775411@qq.com
